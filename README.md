@@ -1,4 +1,4 @@
-# front_topem
+# app
 
 ## Project setup
 ```
